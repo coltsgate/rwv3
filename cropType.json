@@ -1,4 +1,4 @@
-{cropType: [
+{"cropType": [
     {ID: 1, descr: "Veg"},
     {ID: 2, descr: "Fruit"},
     {ID: 3, descr: "Flower"},

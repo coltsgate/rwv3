@@ -1,8 +1,0 @@
-{
-    "lkpStartEnv": [
-    {"ID": 1, "descr": "Windowsill"},
-    {"ID": 2, "descr": "Greenhouse"},
-    {"ID": 3, "descr": "Soil"},
-    {"ID": 4, "descr": "Cold Frame"}
-    ]
-} 
